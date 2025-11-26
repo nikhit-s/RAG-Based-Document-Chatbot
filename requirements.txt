@@ -1,0 +1,19 @@
+streamlit==1.32.0
+# Align LangChain packages (0.3.x)
+langchain
+#==0.3.21
+langchain-community==0.3.21
+langchain-openai==0.2.8
+langchain-google-genai==2.0.9
+langchain-text-splitters==0.3.8
+
+# Keep protobuf compatible with Streamlit 1.32
+protobuf==4.25.3
+
+python-dotenv==1.0.1
+PyPDF2==3.0.1
+docx2txt==0.8
+faiss-cpu==1.7.4
+requests==2.32.3
+sentence-transformers==3.3.1
+google-generativeai==0.8.3
